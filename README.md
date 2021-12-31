@@ -10,6 +10,9 @@ Change this to
 
 and save it by Ctrl+S and then press Ctrl+X.
 
+To change mysql password 
+		
+	ALTER USER 'root'@'localhost' IDENTIFIED BY'{your new password}'  /*inside mysql*/
 
 
 
